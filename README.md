@@ -4,7 +4,7 @@
 
 I help startups build AI products, automate operations, and scale with intelligent software solutions.
 
-AI Expertise
+## 🤖 AI Expertise
 
 - AI Agents
 - Multi-Agent Systems
