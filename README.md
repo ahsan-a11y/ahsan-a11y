@@ -26,5 +26,5 @@ Python • FastAPI • Node.js • React • Next.js • PostgreSQL • Docker �
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://https://www.linkedin.com/in/ahsankhalid1/
+- Email: ahsankhalid1551@gmail.com
