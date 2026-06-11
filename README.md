@@ -4,26 +4,35 @@
 
 I help startups build AI products, automate operations, and scale with intelligent software solutions.
 
-## 🚀 Expertise
+AI Expertise
 
 - AI Agents
+- Multi-Agent Systems
+- RAG Applications
+- LLM Integrations
 - AI Automation
-- Full-Stack Development
-- SaaS Applications
-- Backend APIs
-- Cloud Infrastructure
+- MCP Servers
+- Vector Databases
+- Prompt Engineering
+- Workflow Orchestration
+- Production AI Systems
 
-## 🏗 Featured Projects
+## 🚀 Featured Projects
 
-- https://www.suuvo.com
-- https://www.bloomstack.com
-- https://www.edvenity.com
-- https://www.solisa.ai
+### Suuvo
+AI-powered business platform
+
+### Bloomstack
+Growth and automation platform
+
+### Edvenity
+Education technology platform
+
+### Solisa AI
+AI-driven solution platform
 
 ## 🛠 Tech Stack
-
-Python • FastAPI • Node.js • React • Next.js • PostgreSQL • Docker • AWS • OpenAI • Claude
-
+Python • FastAPI • Node.js • React • Next.js • PostgreSQL • Docker • AWS • OpenAI • Claude • LangGraph • LangChain
 ## 📫 Connect
 
 - LinkedIn: https://https://www.linkedin.com/in/ahsankhalid1/
