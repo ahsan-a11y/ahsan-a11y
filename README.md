@@ -4,7 +4,7 @@
 
 I help startups build AI products, automate operations, and scale with intelligent software solutions.
 
-## 🤖 AI Expertise
+## AI Expertise
 
 - AI Agents
 - Multi-Agent Systems
@@ -17,7 +17,7 @@ I help startups build AI products, automate operations, and scale with intellige
 - Workflow Orchestration
 - Production AI Systems
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Suuvo
 AI-powered business platform
@@ -33,7 +33,7 @@ AI-driven solution platform
 
 ## 🛠 Tech Stack
 Python • FastAPI • Node.js • React • Next.js • PostgreSQL • Docker • AWS • OpenAI • Claude • LangGraph • LangChain
-## 📫 Connect
+## Connect
 
 - LinkedIn: https://https://www.linkedin.com/in/ahsankhalid1/
 - Email: ahsankhalid1551@gmail.com
